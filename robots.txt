@@ -32,3 +32,6 @@ Disallow:/
 
 User-agent:meta-externalagent
 Disallow:/
+
+Sitemap: https://www.mglion.games/sitemap.xml
+Sitemap: https://www.mglion.games/images_sitemap.xml
